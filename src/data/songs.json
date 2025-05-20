@@ -5,7 +5,7 @@
     "category": "Brutal Legends",
     "artist": "Amarynn, Burek",
     "cover": "",
-    "song": "",
+    "song": "../public/music/twilight.mp3",
     "credits": ""
   },
   {
@@ -14,7 +14,7 @@
     "category": "Brutal Legends",
     "artist": "",
     "cover": "",
-    "song": "", 
+    "song": "../public/music/opening_brutal_legends.mp3", 
     "credits": ""
   },
   {
@@ -37,6 +37,15 @@
   },
   {
     "id": 5,
+    "title": "Nawasena",
+    "category":"Viva Fantasy",
+    "artist": "",
+    "cover": "",
+    "song": "",
+    "credits": ""
+  },
+  {
+    "id": 6,
     "title": "Nawasena",
     "category":"Viva Fantasy",
     "artist": "",
