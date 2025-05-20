@@ -23,7 +23,7 @@
     "category":"Viva Fantasy",
     "artist": "Amarynn",
     "cover": "",
-    "song": "",
+    "song": "../public/music/heart.mp3",
     "credits":  ""
   },
   {
@@ -32,7 +32,7 @@
     "category":"Viva Fantasy",
     "artist": "",
     "cover": "",
-    "song": "",
+    "song": "../public/music/cahaya_akan_datang.mp3",
     "credits": ""
   },
   {
@@ -41,16 +41,16 @@
     "category":"Viva Fantasy",
     "artist": "",
     "cover": "",
-    "song": "",
+    "song": "../public/music/nawasena.mp3",
     "credits": ""
   },
   {
     "id": 6,
-    "title": "Nawasena",
+    "title": "Beyond the Skies",
     "category":"Viva Fantasy",
-    "artist": "",
+    "artist": "Amarynn",
     "cover": "",
-    "song": "",
+    "song": "../public/music/beyond_the_skies.mp3",
     "credits": ""
   }
   
