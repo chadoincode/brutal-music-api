@@ -52,6 +52,15 @@
     "cover": "",
     "song": "../public/music/beyond_the_skies.mp3",
     "credits": ""
+  },
+  {
+    "id": 7,
+    "title": "Envy Baby (Cover",
+    "category":"Viva Fantasy",
+    "artist": "Amarynn",
+    "cover": "",
+    "song": "../public/music/beyond_the_skies.mp3",
+    "credits": ""
   }
   
 ]
