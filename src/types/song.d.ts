@@ -5,5 +5,5 @@ export type Song = {
   artist: string,
   cover: string,
   song: string,
-  composer: string,
+  credits: string | null
 }

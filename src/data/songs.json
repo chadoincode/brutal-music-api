@@ -2,73 +2,47 @@
   {
     "id": 1,
     "title": "Twilight",
+    "category": "Brutal Legends",
     "artist": "Amarynn, Burek",
     "cover": "",
     "song": "",
-    "composer": ""
+    "credits": ""
   },
   {
     "id": 2,
     "title": "Opening Brutal Legends",
+    "category": "Brutal Legends",
     "artist": "",
     "cover": "",
-    "song": ""
+    "song": "", 
+    "credits": ""
   },
   {
     "id": 3,
     "title": "Heart",
+    "category":"Viva Fantasy",
     "artist": "Amarynn",
     "cover": "",
-    "song": ""
+    "song": "",
+    "credits":  ""
   },
   {
     "id": 4,
     "title": "Cahaya Akan Datang",
+    "category":"Viva Fantasy",
     "artist": "",
     "cover": "",
-    "song": ""
+    "song": "",
+    "credits": ""
   },
   {
     "id": 5,
-    "title": "Cahaya Akan Datang",
+    "title": "Nawasena",
+    "category":"Viva Fantasy",
     "artist": "",
     "cover": "",
-    "song": ""
-  },
-  {
-    "id": 6,
-    "title": "Cahaya Akan Datang",
-    "artist": "",
-    "cover": "",
-    "song": ""
-  },
-  {
-    "id": 4,
-    "title": "Cahaya Akan Datang",
-    "artist": "",
-    "cover": "",
-    "song": ""
-  },
-  {
-    "id": 4,
-    "title": "Cahaya Akan Datang",
-    "artist": "",
-    "cover": "",
-    "song": ""
-  },
-  {
-    "id": 4,
-    "title": "Cahaya Akan Datang",
-    "artist": "",
-    "cover": "",
-    "song": ""
-  },
-  {
-    "id": 4,
-    "title": "Cahaya Akan Datang",
-    "artist": "",
-    "cover": "",
-    "song": ""
+    "song": "",
+    "credits": ""
   }
   
 ]
