@@ -4,7 +4,8 @@
     "title": "Twilight",
     "artist": "Amarynn, Burek",
     "cover": "",
-    "song": ""
+    "song": "",
+    "composer": ""
   },
   {
     "id": 2,
@@ -68,6 +69,6 @@
     "artist": "",
     "cover": "",
     "song": ""
-  },
+  }
   
 ]
