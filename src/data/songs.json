@@ -5,7 +5,7 @@
     "category": "Brutal Legends",
     "artist": "Amarynn, Burek",
     "cover": "",
-    "song": "../public/music/twilight.mp3",
+    "song": "../../public/music/twilight.mp3",
     "credits": ""
   },
   {
@@ -14,7 +14,7 @@
     "category": "Brutal Legends",
     "artist": "",
     "cover": "",
-    "song": "../public/music/opening_brutal_legends.mp3", 
+    "song": "../../public/music/opening_brutal_legends.mp3", 
     "credits": ""
   },
   {
@@ -23,7 +23,7 @@
     "category":"Viva Fantasy",
     "artist": "Amarynn",
     "cover": "",
-    "song": "../public/music/heart.mp3",
+    "song": "../../public/music/heart.mp3",
     "credits":  ""
   },
   {
@@ -32,7 +32,7 @@
     "category":"Viva Fantasy",
     "artist": "",
     "cover": "",
-    "song": "../public/music/cahaya_akan_datang.mp3",
+    "song": "../../public/music/cahaya_akan_datang.mp3",
     "credits": ""
   },
   {
@@ -41,7 +41,7 @@
     "category":"Viva Fantasy",
     "artist": "",
     "cover": "",
-    "song": "../public/music/nawasena.mp3",
+    "song": "../../public/music/nawasena.mp3",
     "credits": ""
   },
   {
@@ -50,7 +50,7 @@
     "category":"Viva Fantasy",
     "artist": "Amarynn",
     "cover": "",
-    "song": "../public/music/beyond_the_skies.mp3",
+    "song": "../../public/music/beyond_the_skies.mp3",
     "credits": ""
   },
   {
@@ -59,7 +59,7 @@
     "category":"Viva Fantasy",
     "artist": "Amarynn",
     "cover": "",
-    "song": "../public/music/beyond_the_skies.mp3",
+    "song": "../../public/music/envy_baby.mp3",
     "credits": ""
   }
   
