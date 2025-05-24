@@ -1,7 +1,7 @@
 {
   "name": "brutal-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "api-service": "node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
